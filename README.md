@@ -1,18 +1,18 @@
-Project Name
+**Project Name**
 Grace Wanene Portfolio page
 
-Author Name
+**Author Name**
 Grace Wanene
 
-Project Description
+**Project Description**
 This web page provides information on my education, experience, past projects and contact information.
 
-You can access the live web page here
+**Live Demo**
 https://gracewa.github.io/IP-Portfolio-Landing-Page/
 
-License
+**License**
 
-The Unlicense
+*The Unlicense*
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
