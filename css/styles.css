@@ -29,7 +29,8 @@ img {
   border-radius:50%;
 }
 
-#NameTitle {
+#PastProjects p {
+  font-style: oblique;
 }
 
 #AboutMe {
