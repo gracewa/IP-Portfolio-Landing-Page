@@ -8,6 +8,7 @@ Grace Wanene
 This web page provides information on my education, experience, past projects and contact information.
 
 **Live Demo**
+<br>
 https://gracewa.github.io/IP-Portfolio-Landing-Page/
 
 **License**
