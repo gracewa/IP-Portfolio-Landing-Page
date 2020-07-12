@@ -39,3 +39,16 @@ img {
 
 #Hobbies {
 }
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (max-width: 479px) {
+  body {
+    background-color: white;
+    color: black;
+  }
+}
